@@ -10,4 +10,4 @@
 >
 <br>
 
-<img src=imgs/Overview.png width="600" align="center">
+<div align=center><img src=imgs/Overview.png width="600">
