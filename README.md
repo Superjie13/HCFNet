@@ -1,7 +1,7 @@
 # HCFNet
 <br>
 
-> A hybrid multi-modal visual data cross fusionnetwork for indoor and outdoor segmentation
+## A hybrid multi-modal visual data cross fusionnetwork for indoor and outdoor segmentation <br>
 >
 > by Sijie Hu<sup>1</sup>, Fabien Bonardi<sup>1</sup>, Samia bouchafa<sup>1</sup>, D\'esir\'e Sidibé<sup>1</sup>.
 > 
@@ -10,4 +10,4 @@
 >
 <br>
 
-<div align=center><img src=imgs/Overview.png width="600">
+<div align=center><img src=imgs/Overview.png width="700">
